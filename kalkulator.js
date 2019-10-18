@@ -75,7 +75,16 @@ function backspace() {
 function compute() {
     var input_var = document.getElementById('input');
     ans = Math.abs(+eval(input_var.value));
-    var n = ans.toFixed(2)
+    const heltall = Number.isInteger(ans);
+    
+    let n;
+
+    if(heltall) {
+        n = ans.toFixed(0)
+    } else {
+        n = ans.toFixed(1)
+    }
+    
     document.getElementById('svar').value = '=' + n
 };
 
