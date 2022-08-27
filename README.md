@@ -1,4 +1,4 @@
 # Kalkulator
 Liten tema oppgave jeg hadde på fagskolen 
 
-Kan ses på denne linke <a href="https://sema005.github.io/Kalkulator/">Kan ses på denne linke</a>
+<a href="https://sema005.github.io/Kalkulator/" _blank>Kan ses på denne linken</a>
