@@ -1,2 +1,2 @@
 # Kalkulator
-Lille tema oppgave
+Liten tema oppgave jeg hadde på fagskolen 
